@@ -1,0 +1,45 @@
+.main__menu__1 {
+    display: flex;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    width: 85%;
+    height: 20vw;
+    background-color: rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+    border-top-right-radius: 4vw;
+    border-top-left-radius: 4vw;
+    margin-top: 3.5%;
+    justify-content: space-evenly;
+    align-content: space-evenly;
+}
+
+.main__card {
+    display: flex;
+    background-color: aqua;
+    transition: all 0.5s ease-in-out;
+    margin: 0;
+    width: 13vw;
+    height: 10vw;
+}
+
+#main__card__1:hover {
+    transform: scale(1.25);
+    background-color: black;
+}
+#main__card__2:hover {
+    transform: scale(1.25);
+    background-color: black;
+}
+#main__card__3:hover {
+    transform: scale(1.25);
+    background-color: black;
+}
+#main__card__4:hover {
+    transform: scale(1.25);
+    background-color: black;
+}
+#main__card__5:hover {
+    transform: scale(1.25);
+    background-color: black;
+}
